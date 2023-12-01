@@ -46,3 +46,10 @@ La fase di raccolta e analisi dei requisiti è cruciale per comprendere in modo 
 - **Preferenze Utente**: Consentire agli utenti di impostare preferenze per tipi di ombrelloni, posizioni e altri servizi correlati.
 
 - **Feedback e Recensioni**: Dare agli utenti la possibilità di lasciare recensioni e feedback sugli stabilimenti balneari, migliorando la fiducia e la trasparenza nella community.
+
+### Requisiti Tecnici
+
+- **Supporto Multi-Platform**: Assicurare la compatibilità dell'app sia su dispositivi iOS che Android, per raggiungere un pubblico più ampio.
+- **Sicurezza dei Dati**: Implementare rigorosi standard di sicurezza per proteggere le informazioni personali degli utenti e degli stabilimenti.
+- **Integrazione con Sistemi di Pagamento**: Incorporare opzioni di pagamento sicure e affidabili per facilitare transazioni senza problemi.
+- **Scalabilità**: Progettare l'app per essere facilmente scalabile in modo da supportare un numero crescente di utenti e stabilimenti balneari.
