@@ -30,21 +30,15 @@ La fase di raccolta e analisi dei requisiti è cruciale per comprendere in modo 
 ### Per gli stabilimenti balneari
 
 - **Gestione delle Prenotazioni**: Sviluppare un sistema che permetta agli stabilimenti di gestire facilmente le prenotazioni degli ombrelloni e dei lettini. Ciò include la possibilità di visualizzare la disponibilità in tempo reale, confermare le prenotazioni, gestire le cancellazioni e modificare gli arrangiamenti.
-
 - **Mappatura degli Spazi**: Implementare una funzionalità che consenta agli stabilimenti di creare e modificare una mappa digitale degli spazi disponibili, offrendo una visione chiara della disposizione degli ombrelloni e dei lettini.
-
 - **Report e Analisi**: Fornire strumenti per generare report dettagliati sull'utilizzo degli spazi, le prenotazioni, e le entrate, aiutando gli stabilimenti a ottimizzare le operazioni e a prendere decisioni informate.
-
 - **Interfaccia Utente**: Creare un'interfaccia intuitiva e facile da usare, pensata per il personale degli stabilimenti con diversi livelli di abilità tecnologica.
 
 ### Per gli Utenti Finali
 
 - **Prenotazione Semplice**: Garantire un processo di prenotazione fluido e intuitivo, permettendo agli utenti di selezionare e prenotare un ombrellone e/o lettino con pochi tap.
-
 - **Mercato Secondario**: Implementare una funzione che consenta agli utenti di offrire la loro prenotazione ad altri, nel caso in cui non possano utilizzare lo spazio prenotato, creando così un mercato secondario.
-
 - **Preferenze Utente**: Consentire agli utenti di impostare preferenze per tipi di ombrelloni, posizioni e altri servizi correlati.
-
 - **Feedback e Recensioni**: Dare agli utenti la possibilità di lasciare recensioni e feedback sugli stabilimenti balneari, migliorando la fiducia e la trasparenza nella community.
 
 ### Requisiti Tecnici
