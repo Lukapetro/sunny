@@ -249,3 +249,8 @@ L'architettura e il design sono stati concepiti per creare un'app scalabile, sic
 ## 13. Allegati
 
 - Documenti di supporto, grafici, ricerche di mercato, ecc.
+
+### Ricerche di mercato
+
+- [playaya](https://www.playaya.it/it/faq/gestore#showall)
+- [ombrellone.it](https://ombrellone.it/)
