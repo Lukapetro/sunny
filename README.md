@@ -1,4 +1,6 @@
-![SunnyLogo](./sunny-logo.png)
+<p align="center">
+  <img src="./sunny-logo.png" width="150" height="150" />
+</p>
 
 # ☀️ Sunny
 
