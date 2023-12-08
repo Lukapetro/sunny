@@ -250,6 +250,11 @@ L'architettura e il design sono stati concepiti per creare un'app scalabile, sic
 
 - Documenti di supporto, grafici, ricerche di mercato, ecc.
 
+### Documenti di supporto
+
+- [Questionario utenti](https://docs.google.com/forms/d/1sO-EhRItY1g7R_3t95QL6QQgRi7aPtjPM06fPDe8qWE/edit#responses)
+- [Questionario stabilimenti](https://docs.google.com/forms/d/13wklMN-glpR08ZukN2vqMmRfODjiAKvoFLDxMw7qpIg/edit#responses)
+
 ### Ricerche di mercato
 
 - [playaya](https://www.playaya.it/it/faq/gestore#showall)
