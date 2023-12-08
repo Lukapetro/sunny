@@ -41,8 +41,8 @@ Nel contesto attuale, molti stabilimenti balneari si affidano a sistemi di preno
 ### Obiettivi a Breve Termine
 
 - **Sviluppo e Lancio dell'App**: Completare lo sviluppo dell'interfaccia utente e delle funzionalità backend entro 6 mesi e lanciare "Sunny" sugli app store.
-- **Acquisizione di Utenti**: Raggiungere almeno 10.000 utenti attivi nei primi tre mesi dal lancio.
-- **Partnership con Stabilimenti**: Stabilire partnership con almeno 50 stabilimenti balneari nelle principali località turistiche entro i primi sei mesi.
+- **Acquisizione di Utenti**: Raggiungere almeno 200 utenti attivi nei primi tre mesi dal lancio.
+- **Partnership con Stabilimenti**: Stabilire partnership con almeno 5 stabilimenti balneari nelle principali località turistiche entro i primi tre mesi.
 - **Feedback Iniziale e Miglioramenti**: Raccogliere feedback dagli utenti e dagli stabilimenti partner per apportare miglioramenti mirati nell'arco dei primi tre mesi post-lancio.
 
 ### Obiettivi a Lungo Termine
@@ -92,12 +92,12 @@ Nel contesto attuale, molti stabilimenti balneari si affidano a sistemi di preno
 
 ### Timeline Dettagliata con Milestones
 
-- **Dicembre - Gennaio: Raccolta e Analisi dei Requisiti**
+- **Dicembre: Raccolta e Analisi dei Requisiti**
 
   - Completamento delle interviste, dei questionari e dell'analisi della concorrenza.
   - Finalizzazione del documento dei requisiti.
 
-- **Febbraio: Progettazione e Prototipazione**
+- **Gennaio - Febbraio: Progettazione e Prototipazione**
 
   - Sviluppo di wireframe e mockup dell'interfaccia utente.
   - Definizione dell'architettura del sistema.
@@ -212,19 +212,17 @@ L'architettura e il design sono stati concepiti per creare un'app scalabile, sic
 
 - **Front-End Mobile (Per gli Utenti)**:
   - Sviluppato con React Native per garantire un'esperienza utente fluida su entrambe le piattaforme iOS e Android.
-  - Utilizzo di Redux per la gestione dello stato dell'applicazione.
 - **Front-End Web (Per gli Stabilimenti)**:
   - Sviluppo con React.js per creare un'interfaccia web reattiva e user-friendly.
-  - Integrazione con Google Maps API per la visualizzazione e gestione delle mappature degli ombrelloni.
 - **Back-End**:
-  - Node.js con Express.js per il server back-end, fornendo un'architettura robusta e scalabile.
+  - Node.js con Express.js o NextJS TRPC o Bun con Hono per il server back-end, fornendo un'architettura robusta e scalabile.
   - Integrazione di sistemi di pagamento sicuri come Stripe o PayPal.
 - **Database**:
-  - MongoDB per la sua flessibilità nelle strutture dei dati e facilità di integrazione con Node.js.
+  - TBD
 - **Strumenti di Collaborazione e Version Control**:
   - GitHub per il controllo versione e la collaborazione tra i membri del team.
-  - Slack per la comunicazione interna del team.
-  - Trello o Jira per il monitoraggio dei compiti e della roadmap di sviluppo.
+  - Slack o Discord per la comunicazione interna del team.
+  - Trello o Jira o github per il monitoraggio dei compiti e della roadmap di sviluppo.
 
 ## 9. Strategia di Testing
 
