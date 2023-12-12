@@ -140,10 +140,10 @@ Un Diagramma di Gantt verrà creato per visualizzare questa timeline in modo pi�
 
 ### Stima dei Costi Totali
 
-- **Sviluppo dell'App**: Stima di $100,000 - $150,000, coprendo costi di sviluppo, design, testing e implementazione.
-- **Marketing e Promozione**: Budget di $30,000 per la campagna di marketing del lancio, inclusi materiali promozionali, pubblicità online e eventi di lancio.
-- **Costi Operativi**: $20,000 per coprire spese amministrative, licenze software, servizi cloud e manutenzione.
-- **Riserva di Contingenza**: $10,000 riservati per imprevisti o spese non pianificate.
+- **Sviluppo dell'App**: TBD.
+- **Marketing e Promozione**: TBD.
+- **Costi Operativi**: $TBD.
+- **Riserva di Contingenza**: TBD.
 
 ### Allocazione delle Risorse Umane e Tecnologiche
 
@@ -151,7 +151,7 @@ Un Diagramma di Gantt verrà creato per visualizzare questa timeline in modo pi�
   - 2 Sviluppatori Full-Stack
   - 1 Designer UI/UX
   - 1 Project Manager
-  - 1 Tester QA
+  - 1 Responsabile Marketing/Selling
 - **Strumenti e Tecnologie**:
   - Utilizzo di framework come React Native o Flutter per lo sviluppo cross-platform.
   - Server basati su cloud (es. AWS, Google Cloud) per l'hosting e il database.
@@ -160,10 +160,6 @@ Un Diagramma di Gantt verrà creato per visualizzare questa timeline in modo pi�
 - **Risorse di Marketing**:
   - Collaborazione con agenzie di marketing per sviluppare materiali promozionali efficaci.
   - Utilizzo di piattaforme di social media e Google Ads per la pubblicità online.
-
-### Note sul Budget
-
-Il budget è stato strettamente definito tenendo conto delle esigenze del progetto e delle aspettative del mercato. Il monitoraggio attento delle spese e l'allocazione efficiente delle risorse saranno fondamentali per mantenere il progetto entro i limiti di budget.
 
 ## 7. Architettura e Design del Sistema
 
@@ -257,3 +253,5 @@ L'architettura e il design sono stati concepiti per creare un'app scalabile, sic
 
 - [playaya](https://www.playaya.it/it/faq/gestore#showall)
 - [ombrellone.it](https://ombrellone.it/)
+- [spiagge.it](https://www.spiagge.it/)
+- [beacharound](https://www.beacharound.com/)
