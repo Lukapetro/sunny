@@ -251,7 +251,7 @@ L'architettura e il design sono stati concepiti per creare un'app scalabile, sic
 
 ### Ricerche di mercato
 
-- [playaya](https://www.playaya.it/it/faq/gestore#showall)
+- [playaya](https://www.playaya.it/it/faq/gestore#showall) -> chiuso
 - [ombrellone.it](https://ombrellone.it/)
 - [spiagge.it](https://www.spiagge.it/)
 - [beacharound](https://www.beacharound.com/)
